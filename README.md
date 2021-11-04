@@ -1,8 +1,7 @@
 ## My Portfolio Project
 
--  https://amazing-hugle-46d624.netlify.app/
+-  https://yhekim.github.io/My-Portfolio-Projects/contact.html
 
--  https://yhekim.github.io/Survey-Form-Projects-/
 
 -  Here are the web components we designed using HTML5 , CSS3. 
 

@@ -14,10 +14,10 @@
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# My Portfolio Project (HC-01)
+# My Portfolio Project
 
 ## Description
-Project aims to create survey form within html and css.
+Project aims to create survey form within html and css with SASS.
 
 ## Problem Statement
 
@@ -41,7 +41,7 @@ Project aims to create survey form within html and css.
 
 ## Objective
 
-Build a Survey Form that is functionally similar to this: [Survey Form](https://mccarthy-silva.github.io/Survey-Form/)
+Build a Survey Form that is functionally similar to this: [My Portfolio Project](https://yhekim.github.io/My-Portfolio-Projects/contact.html)
 
 ### At the end of the project, following topics are to be covered;
 

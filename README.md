@@ -35,10 +35,6 @@ Project aims to create survey form within html and css with SASS.
         |----result.html 
 ```
 
-## Expected Outcome
-
-![Project 001 Snapshot](Project_001_.png)
-
 ## Objective
 
 Build a Survey Form that is functionally similar to this: [My Portfolio Project](https://yhekim.github.io/My-Portfolio-Projects/contact.html)

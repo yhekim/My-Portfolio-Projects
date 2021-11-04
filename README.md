@@ -9,7 +9,7 @@
 
 - Here, the SASS structure is used in CSS.Responsive design has been made here.
 
-![gif](https://raw.githubusercontent.com/yhekim/Survey-Form-Projects-/main/Survey-form.gif)
+![gif](https://raw.githubusercontent.com/yhekim/My-Portfolio-Projects/main/my_portfolio_projects.gif)
 
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
